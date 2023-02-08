@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+THis repository showcases the basic shell commands 
